@@ -1,7 +1,7 @@
 #ifndef EXCEPTION_HPP
 #define EXCEPTION_HPP
 
-
+gfgf
 #include <stdexcept>
 
 namespace wrapper{
